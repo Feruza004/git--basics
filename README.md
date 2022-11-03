@@ -1,4 +1,4 @@
-# first project
+# The first project
 
 ## Information:
 1. Name: *Feruza*
